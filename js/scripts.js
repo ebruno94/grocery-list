@@ -2,6 +2,12 @@ $(document).ready(function(){
   var items = [];
   var upperItems;
 
+  // var check = function(item){
+  //   if (upperItems.includes(item)){
+  //
+  //   }
+  // }
+
 
   $("#formItem").submit(function(event){
     var currItem = $("#items").val();
@@ -20,6 +26,7 @@ $(document).ready(function(){
     upperItems.sort();
     upperItems.forEach(function(upperItem){
       $("#sorted").append("<li>"+ upperItem + "</li>");
+
     });
     event.preventDefault();
   });
