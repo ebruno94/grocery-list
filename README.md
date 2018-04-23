@@ -10,7 +10,7 @@ _This program allows the user to create a grocery list. Practice for JS loops, m
 
 ## Support and Contact Details
 
-_Please contact eric.swotinsky@gmail.com and ernest.bruno94@yahoo.com with any questions or comments._
+_Please contact ernest.bruno94@yahoo.com with any questions or comments._
 
 ## Technologies Used
 
